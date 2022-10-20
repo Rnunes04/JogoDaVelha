@@ -1,0 +1,16 @@
+C:\Users\rnunes\Documents\GVtalentos\Estudosmodulo 1\JogoDaVelha\JogoDaVelha\bin\Debug\net5.0\JogoDaVelha.exe
+C:\Users\rnunes\Documents\GVtalentos\Estudosmodulo 1\JogoDaVelha\JogoDaVelha\bin\Debug\net5.0\JogoDaVelha.deps.json
+C:\Users\rnunes\Documents\GVtalentos\Estudosmodulo 1\JogoDaVelha\JogoDaVelha\bin\Debug\net5.0\JogoDaVelha.runtimeconfig.json
+C:\Users\rnunes\Documents\GVtalentos\Estudosmodulo 1\JogoDaVelha\JogoDaVelha\bin\Debug\net5.0\JogoDaVelha.runtimeconfig.dev.json
+C:\Users\rnunes\Documents\GVtalentos\Estudosmodulo 1\JogoDaVelha\JogoDaVelha\bin\Debug\net5.0\JogoDaVelha.dll
+C:\Users\rnunes\Documents\GVtalentos\Estudosmodulo 1\JogoDaVelha\JogoDaVelha\bin\Debug\net5.0\ref\JogoDaVelha.dll
+C:\Users\rnunes\Documents\GVtalentos\Estudosmodulo 1\JogoDaVelha\JogoDaVelha\bin\Debug\net5.0\JogoDaVelha.pdb
+C:\Users\rnunes\Documents\GVtalentos\Estudosmodulo 1\JogoDaVelha\JogoDaVelha\obj\Debug\net5.0\JogoDaVelha.csproj.AssemblyReference.cache
+C:\Users\rnunes\Documents\GVtalentos\Estudosmodulo 1\JogoDaVelha\JogoDaVelha\obj\Debug\net5.0\JogoDaVelha.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rnunes\Documents\GVtalentos\Estudosmodulo 1\JogoDaVelha\JogoDaVelha\obj\Debug\net5.0\JogoDaVelha.AssemblyInfoInputs.cache
+C:\Users\rnunes\Documents\GVtalentos\Estudosmodulo 1\JogoDaVelha\JogoDaVelha\obj\Debug\net5.0\JogoDaVelha.AssemblyInfo.cs
+C:\Users\rnunes\Documents\GVtalentos\Estudosmodulo 1\JogoDaVelha\JogoDaVelha\obj\Debug\net5.0\JogoDaVelha.csproj.CoreCompileInputs.cache
+C:\Users\rnunes\Documents\GVtalentos\Estudosmodulo 1\JogoDaVelha\JogoDaVelha\obj\Debug\net5.0\JogoDaVelha.dll
+C:\Users\rnunes\Documents\GVtalentos\Estudosmodulo 1\JogoDaVelha\JogoDaVelha\obj\Debug\net5.0\ref\JogoDaVelha.dll
+C:\Users\rnunes\Documents\GVtalentos\Estudosmodulo 1\JogoDaVelha\JogoDaVelha\obj\Debug\net5.0\JogoDaVelha.pdb
+C:\Users\rnunes\Documents\GVtalentos\Estudosmodulo 1\JogoDaVelha\JogoDaVelha\obj\Debug\net5.0\JogoDaVelha.genruntimeconfig.cache
